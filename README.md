@@ -21,6 +21,6 @@ https://github.com/soudey123/COVID-19-CHEST-X-RAY-IMAGE-CLASSIFICATION_TEAM_1066
 Our own CNN model experimental results are shown here: 
 https://github.com/soudey123/COVID-19-CHEST-X-RAY-IMAGE-CLASSIFICATION_TEAM_1066/blob/main/Our_Model_Experiemental_Results.xlsx
 
-Our final model:
+Our final model can be downloaded from the following link:
 
 https://drive.google.com/file/d/1I783mVSaBjJBT_3yo5BAueq73uHt5XfO/view?usp=sharing
