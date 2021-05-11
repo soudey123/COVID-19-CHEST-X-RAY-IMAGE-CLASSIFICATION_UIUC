@@ -6,6 +6,9 @@ Data Source: https://www.kaggle.com/prashant268/chest-xray-covid19-pneumonia
 
 The downloaded 20% test dataset split into 10% validationa and 10% test dataset for this project purpose.
 
+ ![image](https://user-images.githubusercontent.com/38169031/117822959-98681900-b232-11eb-8c85-a2997cc8ca0a.png)
+
+
 Project Methodology:
 
 1) Radom model initialization as a part of model selection process (pre-trained and simple CNN model)
@@ -24,3 +27,5 @@ https://github.com/soudey123/COVID-19-CHEST-X-RAY-IMAGE-CLASSIFICATION_TEAM_1066
 Our final model can be downloaded from the following link:
 
 https://drive.google.com/file/d/1I783mVSaBjJBT_3yo5BAueq73uHt5XfO/view?usp=sharing
+
+
