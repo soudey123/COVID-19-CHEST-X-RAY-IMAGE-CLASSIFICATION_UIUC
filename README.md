@@ -1,4 +1,4 @@
-## COVID-19-CHEST-X-RAY-IMAGE-CLASSISICATION
+## COVID-19-CHEST-X-RAY-IMAGE-CLASSIFICATION
 
 This repository contains project deliverarbles related to Covid-19 chest x-ray image classification exercise. The purpose of this project is to build image classification model to detect Covid-19 and Pneumonia cases from chest X-ray images.
 
