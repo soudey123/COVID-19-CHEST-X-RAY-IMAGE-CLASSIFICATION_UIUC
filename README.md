@@ -16,7 +16,7 @@ Project Methodology:
 
 Main source code Jupyter Notebook:
 
-https://github.com/soudey123/COVID-19-CHEST-X-RAY-IMAGE-CLASSIFICATION_TEAM_1066/blob/main/DLH_TEAM_1066_FINAL_CODE.ipynb
+https://github.com/soudey123/COVID-19-CHEST-X-RAY-IMAGE-CLASSIFICATION_UIUC/blob/main/DLH_COVID_FINAL_CODE.ipynb
 
 Our own CNN model experimental results are shown here: 
 https://github.com/soudey123/COVID-19-CHEST-X-RAY-IMAGE-CLASSIFICATION_TEAM_1066/blob/main/Our_Model_Experiemental_Results.xlsx
