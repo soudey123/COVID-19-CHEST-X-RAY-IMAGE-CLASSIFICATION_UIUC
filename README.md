@@ -16,7 +16,7 @@ Project Methodology:
 
 Experimental results:
 
-![image](https://user-images.githubusercontent.com/38169031/124501877-fc691280-dd87-11eb-840c-ed3b33d49fbe.png)
+![image](https://user-images.githubusercontent.com/38169031/124501931-1571c380-dd88-11eb-8637-067aacfdfd63.png)
 
 
 Main source code Jupyter Notebook:
