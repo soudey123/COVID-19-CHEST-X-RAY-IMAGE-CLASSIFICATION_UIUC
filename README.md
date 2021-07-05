@@ -14,6 +14,9 @@ Project Methodology:
 4) Select the best model based on validation accuracy.
 5) Evaluate the best model using test data and report final test accuracy.
 
+DLH_COVID model:
+https://github.com/soudey123/COVID-19-CHEST-X-RAY-IMAGE-CLASSIFICATION_UIUC/blob/main/DLH_COVID%20model.pth
+
 Experimental results:
 
 ![image](https://user-images.githubusercontent.com/38169031/124501931-1571c380-dd88-11eb-8637-067aacfdfd63.png)
